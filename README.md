@@ -152,14 +152,14 @@ We are **thrilled to welcome open-source contributors**! This project is partici
 
 We've prepared a comprehensive backlog of 60 high-quality issues (1,200 points total) organized in sprints:
 
-| Batch | Focus | Issues | Points | Status |
-|-------|-------|--------|--------|--------|
-| **1** | Frontend UI/UX (LitRPG Design System) | 10 | 1,500 | ✅ Live |
-| **2** | Web3 Integration (Freighter & Soroban) | 10 | 1,500 | 🔜 Ready |
-| **3** | Smart Contracts (Optimizations & Security) | 10 | 1,500 | 🔜 Ready |
-| **4** | Backend Event Indexer (Rust/Axum) | 10 | 1,500 | 🔜 Ready |
-| **5** | Advanced Features (Gamification, Reputation) | 6 | 1,000 | ✅ Live |
-| **6** | Mobile & Performance (PWA, CWV) | 6 | 950 | ✅ Live |
+| Batch | Focus | Issues | Status |
+|-------|-------|--------|--------|
+| **1** | Frontend UI/UX (LitRPG Design System) | 10 | ✅ Live |
+| **2** | Web3 Integration (Freighter & Soroban) | 10 | 🔜 Ready |
+| **3** | Smart Contracts (Optimizations & Security) | 10 | 🔜 Ready |
+| **4** | Backend Event Indexer (Rust/Axum) | 10 | 🔜 Ready |
+| **5** | Advanced Features (Gamification, Reputation) | 6 | ✅ Live |
+| **6** | Mobile & Performance (PWA, CWV) | 6 | ✅ Live |
 
 ### For Contributors
 
