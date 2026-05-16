@@ -148,19 +148,32 @@ Future contributor batches will focus on building a reusable component library t
 
 We are **thrilled to welcome open-source contributors**! This project is participating in the **Drips Wave Stellar ecosystem program**.
 
+### 🎯 Contributor Roadmap: 60 Issues Across 6 Batches
+
+We've prepared a comprehensive backlog of 60 high-quality issues (1,200 points total) organized in sprints:
+
+| Batch | Focus | Issues | Points | Status |
+|-------|-------|--------|--------|--------|
+| **1** | Frontend UI/UX (LitRPG Design System) | 10 | 1,500 | ✅ Live |
+| **2** | Web3 Integration (Freighter & Soroban) | 10 | 1,500 | 🔜 Ready |
+| **3** | Smart Contracts (Optimizations & Security) | 10 | 1,500 | 🔜 Ready |
+| **4** | Backend Event Indexer (Rust/Axum) | 10 | 1,500 | 🔜 Ready |
+| **5** | Advanced Features (Gamification, Reputation) | 6 | 1,000 | ✅ Live |
+| **6** | Mobile & Performance (PWA, CWV) | 6 | 950 | ✅ Live |
+
 ### For Contributors
 
 - **New to Soroban?** Start with the [Soroban docs](https://developers.stellar.org/docs/smart-contracts).
-- **Good first issues:** Look for `drips-wave` and `good-first-issue` labels.
+- **Good first issues:** Look for `drips-wave`, `good-first-issue`, and `100-points` labels for Batch 1.
+- **Advanced work:** Check `200-points` issues for high-complexity features.
 - **Fork → Branch → PR model**: See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 - **Points & Recognition:** Completed issues earn contributor points and lifetime recognition.
 
-### Current Focus Areas
+### 📋 Issue Documentation
 
-1. **Frontend UI Components** (LitRPG design system)
-2. **Wallet Integration** (Freighter API improvements)
-3. **Smart Contract Optimizations** (Gas efficiency, security audits)
-4. **Backend Event Streaming** (Real-time UI sync)
+- **[Batch 1: Frontend UI/UX](./BATCH_1_FRONTEND_ISSUES.md)** — LitRPG components, animations, accessibility
+- **[Batch 5: Advanced Features](./BATCH_5_ADVANCED_FEATURES.md)** — Tiered pools, reputation, leaderboards
+- **[Batch 6: Mobile & Performance](./BATCH_6_MOBILE_PERFORMANCE.md)** — PWA, optimization, Core Web Vitals
 
 ---
 
